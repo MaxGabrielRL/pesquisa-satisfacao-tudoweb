@@ -6,7 +6,7 @@ ruim = 0
 print("=== PESQUISA DE SATISFAÇÃO - TUDOWEB ===")
 print()
 
-for entrevistado in range(1, 51):
+for entrevistado in range(1, 11):
 
     print(f"--- Entrevistado {entrevistado} ---")
 
